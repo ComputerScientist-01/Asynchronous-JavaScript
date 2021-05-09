@@ -17,6 +17,12 @@
 
 - JavaScript
 
+--- 
+
+## Reference
+
+[Net Ninja's](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu)
+Asynchronous JavaScript (2020 version) playlist
 
 ---
 
