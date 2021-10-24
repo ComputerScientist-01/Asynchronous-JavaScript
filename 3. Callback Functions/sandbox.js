@@ -30,3 +30,6 @@ console.log(4);
 
 //now to check the asnycronous nature we will log some statements and see the result.
 //since getTodos is running last we can safely say it is a non blocking function
+
+// what non-blocking means is that it wont stop the other functions from running
+// and will execute when its intended operation is completed
