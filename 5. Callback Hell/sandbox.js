@@ -23,4 +23,6 @@ getTodos("json/luigi.json", (err, data) => {
 	});
 });
 
-// nesting callbacks within callbacks is called callback hell
+// The problem with callbacks is it creates something called “Callback Hell.”
+//Basically, you start nesting functions within functions within functions,
+//and it starts to get really hard to read the code.
